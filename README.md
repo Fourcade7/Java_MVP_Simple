@@ -12,3 +12,11 @@ Model: Layer for storing data. It is responsible for handling the domain logic(r
 View: UI(User Interface) layer. It provides the visualization of the data and keep a track of the user’s action in order to notify the Presenter.
 
 Presenter: Fetch the data from the model and applies the UI logic to decide what to display. It manages the state of the View and takes actions according to the user’s input notification from the View.
+
+
+
+![image](https://user-images.githubusercontent.com/60017090/183104169-385e2030-1898-4a47-a467-0a0df802633d.png)
+
+
+![x010 png pagespeed ic ZJe0-QnS0n](https://user-images.githubusercontent.com/60017090/183104084-9b8c4b6b-70ab-4989-85c2-b73f33e69e6d.png)
+
